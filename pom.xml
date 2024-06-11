@@ -19,8 +19,8 @@
 <distributionManagement>
   <repository>
     <id>internal.repo</id>
-    <name>Internal repo</name>
-    <url>file:///var/lib/jenkins/DeepaksLocalRepo/</url>
+       <name>Internal repo</name>
+          <url>file:///var/lib/jenkins/myartifacts/</url>
   </repository>
 </distributionManagement>
 
